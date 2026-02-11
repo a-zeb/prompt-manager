@@ -11,6 +11,7 @@ Prompt Manager: This project allows users to manage and optimize their prompt en
 - [Technologies Used](#technologiesused)
 - [Features](#features)
 - [Design](#design)
+- [Local Setup](#setup)
 - [Deployment](#deployment)
 - [About the Author](#author)
 
@@ -37,6 +38,12 @@ Prompt Manager: This project allows users to manage and optimize their prompt en
 - Implemented the UI using React.
 - Implemented the backend using Node.js and Express.
 - Implemented the database using MongoDB.
+
+## <a name="setup"></a>Local Setup
+
+1. `cd prompt-manager`
+2. `npm install`
+3. `npm run dev` (Runs on port 5173)
 
 ## <a name="deployment"></a>Deployment
 
